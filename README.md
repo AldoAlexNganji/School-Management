@@ -32,4 +32,7 @@ Student Dashboard
 ![Screenshot 2025-03-04 100837](https://github.com/user-attachments/assets/b0054462-8f90-425b-9f86-8571cd8b5506)
 ![Screenshot 2025-03-04 100752](https://github.com/user-attachments/assets/3106e3aa-096c-4a46-805d-f0339ec9604c)
 
+Presentation:
+-------------
+![Screenshot 2025-03-04 102641](https://github.com/user-attachments/assets/1ada86cf-1580-4315-9216-07ed69f7af83)
 
