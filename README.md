@@ -1,3 +1,11 @@
+Diagrams
+---------
+![Screenshot 2025-03-04 102242](https://github.com/user-attachments/assets/62c58c41-477c-48a5-b317-5b95fc7f9908)
+![Screenshot 2025-03-04 102227](https://github.com/user-attachments/assets/d1ad6303-872a-48e0-b2a3-0c1710a7adbd)
+![Screenshot 2025-03-04 102159](https://github.com/user-attachments/assets/016fe21e-f735-4f40-a66d-a4674fa08087)
+![Screenshot 2025-03-04 102130](https://github.com/user-attachments/assets/28eb8d67-5eeb-4f65-9c85-d0a759f045ac)
+
+
 Admin Dashboard
 ---------------
 ![Screenshot 2025-03-04 100137](https://github.com/user-attachments/assets/f7965d4a-5f62-4870-b44d-28b3c5ca4a68)
